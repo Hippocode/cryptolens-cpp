@@ -30,3 +30,5 @@
 *.db
 *.ipch
 *.pdb
+*.tlog
+*.log
