@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\Vectorworks\\cryptolens-cpp\\vsprojects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDCA088-92D9-474A-99C4-61C0A5344E04}|Cryptolens.vcxproj|C:\\Development\\Vectorworks\\cryptolens-cpp\\src\\DataObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDCA088-92D9-474A-99C4-61C0A5344E04}|Cryptolens.vcxproj|C:\\Development\\Vectorworks\\cryptolens-cpp\\third_party\\curl\\isunreserved.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDCA088-92D9-474A-99C4-61C0A5344E04}|Cryptolens.vcxproj|C:\\Development\\Vectorworks\\cryptolens-cpp\\src\\SignatureVerifier_CryptoAPI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataObject.cpp",
+              "DocumentMoniker": "C:\\Development\\Vectorworks\\cryptolens-cpp\\src\\DataObject.cpp",
+              "RelativeDocumentMoniker": "..\\src\\DataObject.cpp",
+              "ToolTip": "C:\\Development\\Vectorworks\\cryptolens-cpp\\src\\DataObject.cpp",
+              "RelativeToolTip": "..\\src\\DataObject.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-26T18:25:46.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "isunreserved.cpp",
+              "DocumentMoniker": "C:\\Development\\Vectorworks\\cryptolens-cpp\\third_party\\curl\\isunreserved.cpp",
+              "RelativeDocumentMoniker": "..\\third_party\\curl\\isunreserved.cpp",
+              "ToolTip": "C:\\Development\\Vectorworks\\cryptolens-cpp\\third_party\\curl\\isunreserved.cpp",
+              "RelativeToolTip": "..\\third_party\\curl\\isunreserved.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-26T18:25:42.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignatureVerifier_CryptoAPI.cpp",
+              "DocumentMoniker": "C:\\Development\\Vectorworks\\cryptolens-cpp\\src\\SignatureVerifier_CryptoAPI.cpp",
+              "RelativeDocumentMoniker": "..\\src\\SignatureVerifier_CryptoAPI.cpp",
+              "ToolTip": "C:\\Development\\Vectorworks\\cryptolens-cpp\\src\\SignatureVerifier_CryptoAPI.cpp",
+              "RelativeToolTip": "..\\src\\SignatureVerifier_CryptoAPI.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-26T18:25:14.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

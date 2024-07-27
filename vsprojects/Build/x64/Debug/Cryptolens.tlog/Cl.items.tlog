@@ -1,0 +1,15 @@
+C:\Development\Vectorworks\cryptolens-cpp\src\ActivateError.cpp;C:\Development\Vectorworks\cryptolens-cpp\vsprojects\Build\x64\Debug\ActivateError.obj
+C:\Development\Vectorworks\cryptolens-cpp\src\basic_SKM.cpp;C:\Development\Vectorworks\cryptolens-cpp\vsprojects\Build\x64\Debug\basic_SKM.obj
+C:\Development\Vectorworks\cryptolens-cpp\src\cryptolens_internals.cpp;C:\Development\Vectorworks\cryptolens-cpp\vsprojects\Build\x64\Debug\cryptolens_internals.obj
+C:\Development\Vectorworks\cryptolens-cpp\src\DataObject.cpp;C:\Development\Vectorworks\cryptolens-cpp\vsprojects\Build\x64\Debug\DataObject.obj
+C:\Development\Vectorworks\cryptolens-cpp\src\LicenseKey.cpp;C:\Development\Vectorworks\cryptolens-cpp\vsprojects\Build\x64\Debug\LicenseKey.obj
+C:\Development\Vectorworks\cryptolens-cpp\src\LicenseKeyChecker.cpp;C:\Development\Vectorworks\cryptolens-cpp\vsprojects\Build\x64\Debug\LicenseKeyChecker.obj
+C:\Development\Vectorworks\cryptolens-cpp\src\LicenseKeyInformation.cpp;C:\Development\Vectorworks\cryptolens-cpp\vsprojects\Build\x64\Debug\LicenseKeyInformation.obj
+C:\Development\Vectorworks\cryptolens-cpp\src\MachineCodeComputer_COM.cpp;C:\Development\Vectorworks\cryptolens-cpp\vsprojects\Build\x64\Debug\MachineCodeComputer_COM.obj
+C:\Development\Vectorworks\cryptolens-cpp\src\MachineCodeComputer_static.cpp;C:\Development\Vectorworks\cryptolens-cpp\vsprojects\Build\x64\Debug\MachineCodeComputer_static.obj
+C:\Development\Vectorworks\cryptolens-cpp\src\RawLicenseKey.cpp;C:\Development\Vectorworks\cryptolens-cpp\vsprojects\Build\x64\Debug\RawLicenseKey.obj
+C:\Development\Vectorworks\cryptolens-cpp\src\RequestHandler_WinHTTP.cpp;C:\Development\Vectorworks\cryptolens-cpp\vsprojects\Build\x64\Debug\RequestHandler_WinHTTP.obj
+C:\Development\Vectorworks\cryptolens-cpp\src\ResponseParser_ArduinoJson5.cpp;C:\Development\Vectorworks\cryptolens-cpp\vsprojects\Build\x64\Debug\ResponseParser_ArduinoJson5.obj
+C:\Development\Vectorworks\cryptolens-cpp\src\SignatureVerifier_CryptoAPI.cpp;C:\Development\Vectorworks\cryptolens-cpp\vsprojects\Build\x64\Debug\SignatureVerifier_CryptoAPI.obj
+C:\Development\Vectorworks\cryptolens-cpp\third_party\base64_OpenBSD\base64.cpp;C:\Development\Vectorworks\cryptolens-cpp\vsprojects\Build\x64\Debug\base64.obj
+C:\Development\Vectorworks\cryptolens-cpp\third_party\curl\isunreserved.cpp;C:\Development\Vectorworks\cryptolens-cpp\vsprojects\Build\x64\Debug\isunreserved.obj

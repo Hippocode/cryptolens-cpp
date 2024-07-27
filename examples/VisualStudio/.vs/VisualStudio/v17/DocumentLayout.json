@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\Vectorworks\\cryptolens-cpp\\examples\\VisualStudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{142DA51B-DF9A-4772-86B3-C6687B5664FF}|Example_Offline\\Example_Offline.vcxproj|C:\\Development\\Vectorworks\\cryptolens-cpp\\examples\\VisualStudio\\Example_Offline\\Example_Offline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{142DA51B-DF9A-4772-86B3-C6687B5664FF}|Example_Offline\\Example_Offline.vcxproj|solutionrelative:Example_Offline\\Example_Offline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEC420D-BD7D-48A0-BD88-DC9023EF748B}|Example_Floating\\Example_Floating.vcxproj|C:\\Development\\Vectorworks\\cryptolens-cpp\\examples\\VisualStudio\\Example_Floating\\Example_Floating.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAEC420D-BD7D-48A0-BD88-DC9023EF748B}|Example_Floating\\Example_Floating.vcxproj|solutionrelative:Example_Floating\\Example_Floating.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5672067-816B-4B41-8FF5-5B6E22C4C704}|Example_External\\Example_External.vcxproj|C:\\Development\\Vectorworks\\cryptolens-cpp\\examples\\VisualStudio\\Example_External\\Example_External.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5672067-816B-4B41-8FF5-5B6E22C4C704}|Example_External\\Example_External.vcxproj|solutionrelative:Example_External\\Example_External.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C839C8-8BA5-4139-969B-FEA62D16DF2C}|Example_Activate\\Example_Activate.vcxproj|C:\\Development\\Vectorworks\\cryptolens-cpp\\examples\\VisualStudio\\Example_Activate\\Example_Activate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53C839C8-8BA5-4139-969B-FEA62D16DF2C}|Example_Activate\\Example_Activate.vcxproj|solutionrelative:Example_Activate\\Example_Activate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Example_Floating.cpp",
+              "DocumentMoniker": "C:\\Development\\Vectorworks\\cryptolens-cpp\\examples\\VisualStudio\\Example_Floating\\Example_Floating.cpp",
+              "RelativeDocumentMoniker": "Example_Floating\\Example_Floating.cpp",
+              "ToolTip": "C:\\Development\\Vectorworks\\cryptolens-cpp\\examples\\VisualStudio\\Example_Floating\\Example_Floating.cpp",
+              "RelativeToolTip": "Example_Floating\\Example_Floating.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-26T19:53:12.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Example_External.cpp",
+              "DocumentMoniker": "C:\\Development\\Vectorworks\\cryptolens-cpp\\examples\\VisualStudio\\Example_External\\Example_External.cpp",
+              "RelativeDocumentMoniker": "Example_External\\Example_External.cpp",
+              "ToolTip": "C:\\Development\\Vectorworks\\cryptolens-cpp\\examples\\VisualStudio\\Example_External\\Example_External.cpp",
+              "RelativeToolTip": "Example_External\\Example_External.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-26T19:52:31.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Example_Offline.cpp",
+              "DocumentMoniker": "C:\\Development\\Vectorworks\\cryptolens-cpp\\examples\\VisualStudio\\Example_Offline\\Example_Offline.cpp",
+              "RelativeDocumentMoniker": "Example_Offline\\Example_Offline.cpp",
+              "ToolTip": "C:\\Development\\Vectorworks\\cryptolens-cpp\\examples\\VisualStudio\\Example_Offline\\Example_Offline.cpp",
+              "RelativeToolTip": "Example_Offline\\Example_Offline.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-26T19:11:24.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Example_Activate.cpp",
+              "DocumentMoniker": "C:\\Development\\Vectorworks\\cryptolens-cpp\\examples\\VisualStudio\\Example_Activate\\Example_Activate.cpp",
+              "RelativeDocumentMoniker": "Example_Activate\\Example_Activate.cpp",
+              "ToolTip": "C:\\Development\\Vectorworks\\cryptolens-cpp\\examples\\VisualStudio\\Example_Activate\\Example_Activate.cpp",
+              "RelativeToolTip": "Example_Activate\\Example_Activate.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-26T18:29:18.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

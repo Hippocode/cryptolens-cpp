@@ -1,0 +1,18 @@
+﻿  ActivateError.cpp
+  basic_SKM.cpp
+  cryptolens_internals.cpp
+  DataObject.cpp
+  LicenseKey.cpp
+  LicenseKeyChecker.cpp
+  LicenseKeyInformation.cpp
+  MachineCodeComputer_COM.cpp
+  MachineCodeComputer_static.cpp
+  RawLicenseKey.cpp
+  RequestHandler_WinHTTP.cpp
+  ResponseParser_ArduinoJson5.cpp
+C:\Development\Vectorworks\cryptolens-cpp\src\ResponseParser_ArduinoJson5.cpp(336,81): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  SignatureVerifier_CryptoAPI.cpp
+  base64.cpp
+  isunreserved.cpp
+  Generating Code...
+  Cryptolens.vcxproj -> C:\Development\Vectorworks\cryptolens-cpp\vsprojects\Output\x64\Debug\Cryptolens.lib
